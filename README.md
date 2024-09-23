@@ -18,5 +18,5 @@ To set up the Python environment and install the necessary dependencies:
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://your-repo-url.git
+   git clone [git@github.com:NemoIII](https://github.com/NemoIII/bcpe_test.git)
    cd website_monitor
